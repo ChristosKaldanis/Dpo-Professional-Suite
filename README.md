@@ -190,7 +190,7 @@ BSc Information Technology — Ionian University (2021–2025)
 
 ## License
 
-**Copyright © 2025 Christos Kaldanis. All Rights Reserved.**
+**Copyright © 2025 CHRISTOS KALDANIS. All Rights Reserved.**
 
 This repository and all of its contents — including but not limited to the project report, documentation, diagrams, and any other materials — are the exclusive intellectual property of Christos Kaldanis.
 
